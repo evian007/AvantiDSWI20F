@@ -1,5 +1,6 @@
 # AvantiDSWI20F
 Avanti School
+
 ```mermaid
 gantt
     title A Gantt Diagram
@@ -10,3 +11,4 @@ gantt
     section Another
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
+```
