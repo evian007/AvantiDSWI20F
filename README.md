@@ -1,5 +1,6 @@
 # AvantiDSWI20F
 Avanti School
+```mermaid
 gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
