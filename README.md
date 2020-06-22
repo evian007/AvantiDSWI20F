@@ -1,14 +1,15 @@
 ---
-title: Ristic on demand Services
-sub_title: "IT Dienstleister für KMU"
+title: Avanti DSWI 20F
+sub_title: Avanti Weiterbildung Dip. Winf. Inoformatiker
 categories:
-  - Markup
+  - School
 elements:
   - content
   - css
   - formatting
   - html
   - markup
+  - mermaid
 last_modified_at: 2018-02-01T10:16:49-05:00
 ---
 
